@@ -13,11 +13,11 @@ let colors = [
 let thesis = [
   `Hey! My name is Pavel Kuprin.`,
   `I'm a generative artist from Moscow.`,
-  `I'm express my sense of rhythm with the superpower of code.`,
-  `Follow my artistic journey on Instagram.`,
+  `I express my sense of rhythm with the superpower of code.`,
+  `Follow my artistic journey on Twitter.`,
 ]
 
-let URL = 'https://instagram.com/hidden_math/'
+let URL = 'https://twitter.com/neotechnic'
 
 let timer = 0
 let scroll = 0
